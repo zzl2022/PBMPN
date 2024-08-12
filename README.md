@@ -2,4 +2,4 @@
 
 Predicting benign and malignant pulmonary nodules (PBMPN)
 
-The code will be uploaded after the paper is accepted.
+Altruistic seagull optimization algorithm enables selection of radiomic features for predicting benign and malignant pulmonary nodules
